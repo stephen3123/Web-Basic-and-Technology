@@ -5,9 +5,9 @@ This repository contains basic web development exercises and projects. The files
 File Descriptions
 index.html: First webpage introducing basics and personal details.
 
-WEB Table Razal.html: HTML table with hyperlinks for navigation to a Wikipedia website.
+WEB Table task 1.html: HTML table with hyperlinks for navigation to a Wikipedia website.
 
-Muhammed Razal HW L2.html: Homework file implementing a color palette mixer using sliders for red, green, and blue.
+stephen mathew HW L2.html: Homework file implementing a color palette mixer using sliders for red, green, and blue.
 
 25-2.html: Recreation of another webpage, structured and modified to match the reference site.
 
